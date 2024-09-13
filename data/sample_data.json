@@ -1,0 +1,15 @@
+[
+    {
+        "id": "doc_001",
+        "company": "Tech Innovators Inc",
+        "industry": "Technology",
+        "text": "Tech Innovators Inc aims to improve supply chain efficiency using AI-powered automation."
+    },
+    {
+        "id": "doc_002",
+        "company": "Green Energy Corp",
+        "industry": "Energy",
+        "text": "Green Energy Corp seeks to reduce operational costs through renewable energy innovations."
+    }
+]
+
