@@ -1,0 +1,41 @@
+# Enterprise RAG - Transform Business Process & Decision-Making with Generative AI
+
+## Overview
+This project leverages Generative AI, specifically GPT-4, and Retrieval-Augmented Generation (RAG) to provide business insights and strategies based on company-specific data. The system integrates **OpenAI's GPT-4** with **Pinecone** vector storage to deliver real-time, context-aware insights to enterprise users.
+
+## Features
+- **LLM-Powered Engine**: Uses GPT-4 to generate business strategies based on user queries.
+- **RAG Integration**: Combines AI generation with real-time document retrieval from Pinecone.
+- **Interactive UI**: Streamlit-powered web app that allows users to ask questions and visualize business impacts.
+- **Data Privacy**: Secure handling of business-sensitive information.
+
+## Tech Stack
+- **Backend**: Python, OpenAI API, Pinecone, LangChain.
+- **Frontend**: Streamlit for the user interface and Plotly for visualizations.
+- **Data Storage**: Pinecone for vector-based document retrieval.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/enterprise-rag-gen-ai.git
+
+Install dependencies:
+
+bash
+Copier le code
+pip install -r backend/requirements.txt
+Set up your OpenAI and Pinecone API keys in config/secrets.yaml.
+
+Run the app:
+
+bash
+Copier le code
+streamlit run frontend/app.py
+Running Tests
+To run the unit tests for the backend and frontend components, use:
+
+bash
+Copier le code
+python -m unittest discover tests
