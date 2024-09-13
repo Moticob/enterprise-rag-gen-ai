@@ -1,0 +1,5 @@
+openai==0.27.0
+pinecone-client==2.2.1
+langchain==0.0.106
+pyyaml==6.0
+
