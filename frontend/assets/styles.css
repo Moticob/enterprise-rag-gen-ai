@@ -1,0 +1,43 @@
+/* General body styling */
+body {
+    background-color: #f0f0f5;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Title and header styling */
+h1 {
+    color: #1F618D;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Subheader for AI's recommendation */
+h2 {
+    color: #117A65;
+}
+
+/* Input field styling */
+input[type="text"] {
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar styling */
+.stSidebar {
+    background-color: #f8f9fa;
+}
+
+/* Footer styling */
+footer {
+    padding: 10px 0;
+    background-color: #1F618D;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
