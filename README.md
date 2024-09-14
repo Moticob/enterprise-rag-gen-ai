@@ -1,8 +1,8 @@
 # Enterprise RAG - Transform Business Process & Decision-Making with Generative AI
 
-![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg)
-![Pinecone Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/Pinecone_Logo.svg)
-![Streamlit Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_Logo.svg)
+![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.png)
+![Pinecone Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/Pinecone_Logo.png)
+![Streamlit Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_Logo.png)
 
 ## Repository Name: `enterprise-rag-gen-ai`
 
