@@ -1,10 +1,9 @@
 # Enterprise RAG - Transform Business Process & Decision-Making with Generative AI
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.png" alt="OpenAI Logo" width="120" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pinecone_Logo.png" alt="Pinecone Logo" width="120" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_Logo.png" alt="Streamlit Logo" width="120" />
-</p>
+[![OpenAI](https://img.shields.io/badge/OpenAI-Logo-blue)](https://openai.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-Logo-lightgreen)](https://www.pinecone.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Logo-orange)](https://streamlit.io/)
+
 
 ## Repository Name: `enterprise-rag-gen-ai`
 
